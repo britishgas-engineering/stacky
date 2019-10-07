@@ -1,6 +1,12 @@
 [![NPM version](http://img.shields.io/npm/v/stacky.svg)](https://npmjs.org/package/stacky)
 [![Build Status](http://img.shields.io/travis/PolymerLabs/stacky.svg)](https://travis-ci.org/PolymerLabs/stacky)
 
+# Health Warning
+
+Stacky repo is Read Only 1.3.1 • Public • Published 4 years ago.
+
+This is a form for security patches only.
+
 # Stacky
 
 ## Formatting
