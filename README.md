@@ -5,7 +5,7 @@
 
 Stacky repo is Read Only 1.3.1 • Public • Published 4 years ago.
 
-This is a form for security patches only.
+This is a fork for security patches only. If the original repo springs back to life please use that instead.
 
 # Stacky
 
